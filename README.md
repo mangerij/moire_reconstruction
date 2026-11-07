@@ -4,7 +4,7 @@ Supplemental code repository for DOI:10.1038/s41586-026-11330-9
 
 Representative example code for 
 
-(i) using and analyzing the machine learning interatomic potential
+(i) using the machine learning interatomic potential and analyzing its predictions
 
 (ii) ab initio scanning transmission electric microscopy simulations
 
