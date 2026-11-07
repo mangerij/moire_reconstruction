@@ -1,4 +1,4 @@
-# Simulation code for Moiré in a twisted oxide bilayer
+# Simulation code for Moiré reconstruction in a twisted oxide bilayer
 
 Supplemental code repository for DOI:10.1038/s41586-026-11330-9
 
