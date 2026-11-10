@@ -1,0 +1,13 @@
+elsi_restart: read 1
+k_grid:
+- 1
+- 1
+- 1
+output_manual:
+- output                             atom_proj_dos -10 5 1501 0.01
+plus_u:
+  Ti: 3 d 4.3
+plus_u_petukhov_mixing: 1.0
+relativistic: atomic_zora scalar
+species_dir: <PATH>/240920_2-intel-2023a/species_defaults/defaults_2020/light/
+xc: pz-lda

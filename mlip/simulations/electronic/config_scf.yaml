@@ -1,0 +1,14 @@
+xc:
+  pz-lda
+relativistic:
+  atomic_zora scalar
+species_dir:
+  <PATH>/240920_2-intel-2023a/species_defaults/defaults_2020/light/
+k_grid:
+  - 1
+  - 1
+  - 1
+plus_u_petukhov_mixing: 1.0
+plus_u:
+  Ti: 3 d 4.3
+elsi_restart: read_and_write 1

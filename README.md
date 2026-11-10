@@ -6,7 +6,7 @@ Representative example code for
 
 (i) using the machine learning interatomic potential and analyzing its predictions
 
-  Needs: MACE vX, torch vX, fhi-AIMs vX
+  Needs: MACE 0.3.7, torch 2.4.1, FHI-aims 240920_2
 
 (ii) ab initio scanning transmission electric microscopy simulations
 

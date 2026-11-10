@@ -1,0 +1,27 @@
+E0s:
+  8: -1.42280957
+  22: -0.58233788
+  38: -0.0034117
+amsgrad: true
+batch_size: 10
+default_dtype: float64
+device: cuda
+ema: true
+ema_decay: 0.99
+energy_weight: 5.0
+forces_weight: 95.0
+hidden_irreps: 64x0e + 64x1o
+lr: 0.01
+max_L: 2
+max_ell: 2
+max_num_epochs: 600
+model: MACE
+name: MACE
+patience: 50
+r_max: 5.0
+scaling: rms_forces_scaling
+seed: 3
+start_swa: 350
+swa: true
+train_file: train.xyz
+valid_fraction: 0.1
