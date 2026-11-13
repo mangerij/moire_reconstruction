@@ -10,6 +10,6 @@ Representative example code for
 
 (ii) ab initio scanning transmission electric microscopy simulations
 
-  Needs: abTEM vX
+  Needs: abTEM v1.0.10
 
 (iii) input files to be used for phase-field simulations (in Ferret: see https://github.com/mangerij/ferret)
